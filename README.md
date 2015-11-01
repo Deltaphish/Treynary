@@ -4,4 +4,5 @@
 <ul>
   <li>Add support for more formats</li>
   <li>Add more characters</li>
+  <li>Add comments</li>
 </ul>
